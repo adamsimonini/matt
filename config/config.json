@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "password",
-    "database": "CodWeb_db",
-    "host": "127.0.0.1",
+    "username": "i9l6m78mkffj04g0",
+    "password": "nnpyem3bsl88pi01",
+    "database": "xazd4wtfzmjpx6n1",
+    "host": "lyn7gfxo996yjjco.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
